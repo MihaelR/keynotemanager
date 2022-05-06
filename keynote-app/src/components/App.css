@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main {
+  margin-top: 5em;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+
+.ui.search input {
+  width: 100%;
+  border-radius: 0 !important;
+}
+
+.item {
+  padding: 15px 0px !important;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.active {
+  background: #ff7f7f !important;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.right {
+  float: right !important;
+}
+.center-div {
+  text-align: center;
+}
+
+.row-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.row-cell {
+  width: calc(100% / 6);
+  display: flex;
+  justify-content: center;
+}
+
+.ui.list .list>.item, .ui.list>.item, ol.ui.list li, ul.ui.list li {
+  display: flex;
+
+}

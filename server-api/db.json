@@ -1,0 +1,94 @@
+{
+  "keynotes": [
+    {
+      "id": "d32aabe5-51b4-46f3-b731-553787dbb626",
+      "title": "Speech VUE.JS",
+      "description": "<p>Some description xx</p>",
+      "speaker": "mihael ras",
+      "startDate": "2021-08-06",
+      "startTime": "12:00",
+      "endTime": "14:13"
+    },
+    {
+      "id": "cf78e07d-4b46-4239-89e6-0daae764e830",
+      "title": "CSS course",
+      "description": "<p>Lorem ipsum</p>",
+      "speaker": "Maximillian S.",
+      "startDate": "2022-09-01",
+      "startTime": "16:00",
+      "endTime": "22:00"
+    },
+    {
+      "id": "d33eddbe-f272-4c3f-a9ef-744ccd5a980f",
+      "title": "React for beginners",
+      "description": "<p>Hooks and more..</p>",
+      "speaker": "Ena M.",
+      "startDate": "2021-08-06",
+      "startTime": "20:15",
+      "endTime": "23:10"
+    },
+    {
+      "id": "20d245c9-b8f5-4488-bd56-084e0e6b8a18",
+      "title": "edge",
+      "description": "<p>descriptioedben...</p>",
+      "speaker": "edge",
+      "startDate": "2021-08-05",
+      "startTime": "14:20",
+      "endTime": "19:20"
+    },
+    {
+      "id": "f5e26cb3-7fc3-4b08-8680-214626efe6b9",
+      "title": "VUE",
+      "description": "<p>description...abou vue</p>",
+      "speaker": "mihael tr",
+      "startDate": "2021-08-06",
+      "startTime": "15:15",
+      "endTime": "17:00"
+    },
+    {
+      "id": "5bd77c5a-8173-4cbd-b0a7-44d087aa8cc2",
+      "title": "nesto novo nesto divlje",
+      "description": "<p>description...xx</p>",
+      "speaker": "dsadas",
+      "startDate": "2021-08-01",
+      "startTime": "11:11",
+      "endTime": "15:18"
+    },
+    {
+      "id": "b5b98d28-83ac-49de-99f0-a90f01251db9",
+      "title": "dfas",
+      "description": "<p>description...dsa</p>",
+      "speaker": "dsadsa",
+      "startDate": "2021-08-05",
+      "startTime": "11:11",
+      "endTime": "11:14"
+    },
+    {
+      "id": "323a689c-f921-4cf2-8539-cd70418aa9a2",
+      "title": "Speech",
+      "description": "<p>description...dsa</p>",
+      "speaker": "dasdsa",
+      "startDate": "2021-08-08",
+      "startTime": "09:09",
+      "endTime": "10:10"
+    },
+    {
+      "id": "018ee79e-6d2d-4e4b-9cc3-4a2aae332ad5",
+      "title": "xxxspeach",
+      "description": "<p>helou</p>",
+      "speaker": "mihael",
+      "startDate": "2020-08-05",
+      "startTime": "10:01",
+      "endTime": "20:20"
+    },
+    {
+      "id": "e64e5d1a-5d3a-4d91-9f85-d2d8efcc0f5d",
+      "title": "Speechh",
+      "description": "<p>description...cc</p>",
+      "speaker": "Ena M. n",
+      "startDate": "2021-08-14",
+      "startTime": "17:42",
+      "endTime": "16:44"
+    }
+  ]
+}
